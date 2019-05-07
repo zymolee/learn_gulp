@@ -1,8 +1,4 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick and simple.
+npm install --save-dev gulp
 
-
-partnew
+http://www.ydcss.com/archives/18  gulp详细教程
+https://www.jianshu.com/p/2265a69e17ae   gulp + webpack
